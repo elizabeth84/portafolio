@@ -1,0 +1,128 @@
+*{
+	margin:0;
+	padding: 0;
+	text-align:center;
+}
+.navpro{
+	background-color: white;
+	border-color: white;
+	margin-bottom: 0;
+}
+.baner{
+	background-image:url("../img/header.jpg");
+	width:100%;
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position-y: 47%;
+    background-position-x: 20%;
+	color:white;
+	padding: 11%;
+}
+.porta{
+	color:#F05F40;
+}
+.nav .navbar-nav .navbar-right> li > a {
+	color:black;
+}
+h2{
+	margin-top:0;
+}
+.size{
+	font-size:17px;
+}
+.separador{
+	width: 50px;
+    margin: 20px auto;
+    border: 2px solid #F05F40;
+}
+.conoce{
+	background-color:#F05F40;
+	border-color:#F05F40;
+	border-radius:20px;
+	margin-top:12px;
+}
+.btn-primary:hover{
+	background-color:#FA8258;
+	border-color:#F05F40;
+	border-radius:20px;
+}
+.sobremi{
+	background-color:#F05F40;
+	color:white;
+	padding:10%;
+}
+.white{
+	border: 2px solid white;
+}
+.servicio{
+	padding:9%;
+}
+i{
+	font-size: 70px;
+	color:#F05F40;
+}
+.recuadro{
+	padding:3%;
+	margin:3%;
+}
+.concepto{
+	color:gray;
+	font-family:serif;
+	font-size:19px;
+}
+.juntar{
+	padding-right:0px ;
+    padding-left: 0px; 
+}
+.imagen{
+	width:100%;
+	height:260px;
+}
+.image1{
+	background-image:url("../img/1.jpg");	
+}
+.image2{
+	background-image:url("../img/2.jpg");	
+}
+.image3{
+	background-image:url("../img/3.jpg");	
+}
+.image4{
+	background-image:url("../img/4.jpg");	
+}
+.image5{
+	background-image:url("../img/5.jpg");	
+}
+.image6{
+	background-image:url("../img/6.jpg");	
+}
+.transparent{
+	display:none;
+	background-color: coral;
+	color: white;
+	opacity: 0.5;
+	height:100%;
+	padding-top:20%;
+}
+.imagen:hover .transparent{
+	display:block;
+}
+.verhit{
+	border-radius:20px;
+}
+.margin{
+	margin-top:0px;
+}
+.ver{
+	background-color:#222222;
+}
+.black{
+	color:black;
+}
+.pd{
+	padding: 6%;
+}
+#white{
+	color:white;
+}
+
